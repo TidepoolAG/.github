@@ -14,7 +14,7 @@ Tidepool (tidepool.ag) is a non-custodial liquidity position manager for Meteora
 | Arc | Uniswap v3, Uniswap v4 |
 | Ethereum | Uniswap v3, Uniswap v4 (track, claim and close) |
 
-**Pricing:** 3% of the fees you claim through the app, paid inside the same transaction. No subscription, no fee on swaps or deposits, no token.
+**Pricing:** 3% of the fees you claim through the app (1% on Robinhood Chain), paid inside the same transaction. No subscription, no fee on swaps or deposits, no token.
 
 ### Repositories
 
