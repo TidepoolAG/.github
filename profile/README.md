@@ -10,7 +10,7 @@ Tidepool (tidepool.ag) is a non-custodial liquidity position manager for Meteora
 | --- | --- |
 | Solana | Meteora DLMM, Meteora DAMM v2 |
 | Base | Uniswap v3, Uniswap v4 |
-| Robinhood Chain | Uniswap v3, Uniswap v4 (including tokenized stock pools) |
+| Robinhood Chain | Uniswap v3, Uniswap v4 |
 | Arc | Uniswap v3, Uniswap v4 |
 | Ethereum | Uniswap v3, Uniswap v4 (track, claim and close) |
 
